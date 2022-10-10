@@ -1,6 +1,5 @@
-
-MINHA APRENSETAÇÃO-SOBRE MIM
-
+# Sobre mim
+## Minha vida
 -  👋 Hi, I’m @c6elita
 - 👀 estou interessada em aprender sobre o curso
 - sou estudante do alura e estou disposta a ajudar sempre.
